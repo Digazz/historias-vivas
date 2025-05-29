@@ -43,11 +43,11 @@ my_project/
 
 ## How to run locally
 
-1. Clone the repository:
-2. (Optional) Create a virtual environment:
-3. Install dependencies:
-4. Create a `.env` file with your ChatPDF API key:
-5. Run the app:
+1. Clone the repository
+2. (Optional) Create a virtual environment
+3. Install dependencies
+4. Create a `.env` file with your ChatPDF API key
+5. Run the app
 
 ---
 
