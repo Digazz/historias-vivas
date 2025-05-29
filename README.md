@@ -26,21 +26,6 @@ I hope you like it! :)
 - ChatPDF API
 - st_audiorec
 
-## Project structure
-
-my_project/
-├── app.py
-├── auth.py
-├── chat.py
-├── database.py
-├── transcricao.py
-├── enviar_pdf.py
-├── requirements.txt
-├── audios/
-│ └── .gitkeep
-├── pdfs/
-│ └── .gitkeep
-
 ## How to run locally
 
 1. Clone the repository
