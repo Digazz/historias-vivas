@@ -49,14 +49,6 @@ my_project/
 4. Create a `.env` file with your ChatPDF API key:
 5. Run the app:
 
-## Deploy with Streamlit Cloud
-
-1. Push your project to GitHub
-2. Visit [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Connect to GitHub and select your repository
-4. Set the main file path to `app.py`
-5. Add the `CHATPDF_API_KEY` secret in the settings
-
 ---
 
 ## License
